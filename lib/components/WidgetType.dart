@@ -1,0 +1,6 @@
+
+
+enum WidgetType {
+  UikText,
+  UikImage
+}
